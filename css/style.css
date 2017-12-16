@@ -1,9 +1,13 @@
 .pageContainer {
     margin: 20px;
+    border: solid;
+    border-color: white;
+    padding: 10px;
 }
 
 .body {
     background-color: skyblue;
+    padding: 20 px; 
 }
 
 #navbar-info {
